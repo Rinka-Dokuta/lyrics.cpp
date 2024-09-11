@@ -1,0 +1,27 @@
+#include<iostream>
+using namespace std;
+
+
+int main() {
+	char input1;
+	
+	cout << "Is you're favoite song Beliver?" << endl;
+	cin >> input1;
+
+	if (input1 == 'y') {
+		cout << "First things first, I'ma say all the words inside my head, I'm fired up and tired of the way that things have been" << endl;
+
+
+
+
+
+	}
+	
+	
+
+
+
+
+
+
+}
